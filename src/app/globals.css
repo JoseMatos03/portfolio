@@ -1,3 +1,28 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'Hack';
+    src: url('/fonts/Hack-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hack';
+    src: url('/fonts/Hack-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hack';
+    src: url('/fonts/Hack-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+body {
+    @apply font-hack;
+}

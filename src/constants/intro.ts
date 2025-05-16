@@ -1,0 +1,17 @@
+export const intro = [
+      "██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗██╗",
+      "██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝██║",
+      "██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗  ██║",
+      "██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝  ╚═╝",
+      "╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗██╗",
+      " ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚═╝",
+      " ",
+      "I'm José Matos, a computer engineering student at the University of Minho.",
+      "Here, you'll find an interactive console interface that provides information about me, my projects, and how to contact me.",
+      " ",
+      "To navigate this website you will use commands, just like a console!",
+      "Type 'about' to learn more about who I am.",
+      "Type 'projects' to see a list of the work I've done.",
+      "Type 'contact' to get to know my contact details.",
+      "Type 'clear' to clear the console screen and return to this prompt.",
+];

@@ -9,8 +9,14 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        'text': '#00e705',
+        'background': '#1e1e1e',
+        'primary': '#84f680',
+        'secondary': '#0b944f',
+        'accent': '#1bee9f',
+      },
+      fontFamily: {
+        hack: ['Hack', 'monospace'],
       },
     },
   },
